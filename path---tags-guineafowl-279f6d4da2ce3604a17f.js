@@ -1,0 +1,2 @@
+webpackJsonp([6518608272307],{479:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Deer Tick Killers"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/we-kill-ticks-with-birds/"},frontmatter:{title:"We Kill Ticks with Birds Who Like Eating Ticks"}}}]}},pathContext:{tag:"guineafowl"}}}});
+//# sourceMappingURL=path---tags-guineafowl-279f6d4da2ce3604a17f.js.map

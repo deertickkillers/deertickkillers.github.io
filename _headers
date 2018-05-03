@@ -1,0 +1,104 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/offline-plugin-app-shell-fallback/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/contact/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---contact-a2ce18ad91deb1cae93a.js>; rel=preload; as=script
+  Link: </component---src-templates-contact-page-js-8913153e22bba55b7f2c.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---index-e763f022b3ccc86b071d.js>; rel=preload; as=script
+  Link: </component---src-templates-home-page-js-5bf0ee8a0c7ed7a350e0.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/about/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---about-0ca14cf79154ad87805b.js>; rel=preload; as=script
+  Link: </component---src-templates-about-page-js-12a0b6b11e3a2f2665d2.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/pricing/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---pricing-584a5d6ba9b06ba654fe.js>; rel=preload; as=script
+  Link: </component---src-templates-pricing-page-js-c763fa1f55611a00cc17.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/blog/we-kill-ticks-with-birds/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---blog-we-kill-ticks-with-birds-fea716bfcfc14a64677f.js>; rel=preload; as=script
+  Link: </component---src-templates-article-page-js-9949371b1a6f15cdc056.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/blog/we-kill-deer-with-trained-hunters-with-crossbows/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---blog-we-kill-deer-with-trained-hunters-with-crossbows-57093a1c09e7ec626c76.js>; rel=preload; as=script
+  Link: </component---src-templates-article-page-js-9949371b1a6f15cdc056.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/tags/chicken/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---tags-chicken-4fb095e5a82b293174f3.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/tags/guineafowl/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---tags-guineafowl-279f6d4da2ce3604a17f.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/tags/tick/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---tags-tick-eb5eb86f7df2a1e11eaf.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/tags/deer/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---tags-deer-313d4be760d6fd3d8362.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/tags/crossbow/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---tags-crossbow-978263b90b9d5f61924e.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-9a29fd6877da2060f814.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/404/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---404-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-2a010ced20c501a11d1f.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/blog/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---blog-9f327c483cfce257ff86.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-index-js-b3453437b97c33ca462d.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/tags/
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---tags-a9743739556f4f71cff2.js>; rel=preload; as=script
+  Link: </component---src-pages-tags-index-js-35752417f2703a47d7c9.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script
+/404.html
+  Link: </commons-7aaf328c728ac53a7b1f.js>; rel=preload; as=script
+  Link: </app-5e91772012381f74b1ca.js>; rel=preload; as=script
+  Link: </path---404-html-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-2a010ced20c501a11d1f.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-4144aee756861b402370.js>; rel=preload; as=script

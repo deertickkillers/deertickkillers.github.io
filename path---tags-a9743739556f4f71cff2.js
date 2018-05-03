@@ -1,0 +1,2 @@
+webpackJsonp([55702396619907],{481:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Deer Tick Killers"}},allMarkdownRemark:{group:[{fieldValue:"chicken",totalCount:1},{fieldValue:"crossbow",totalCount:1},{fieldValue:"deer",totalCount:1},{fieldValue:"guineafowl",totalCount:1},{fieldValue:"tick",totalCount:2}]}},pathContext:{}}}});
+//# sourceMappingURL=path---tags-a9743739556f4f71cff2.js.map
