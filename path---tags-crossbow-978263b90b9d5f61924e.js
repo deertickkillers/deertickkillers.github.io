@@ -1,0 +1,2 @@
+webpackJsonp([40298517225813],{477:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Deer Tick Killers"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/we-kill-deer-with-trained-hunters-with-crossbows/"},frontmatter:{title:"We Kill Deer When Appropriate"}}}]}},pathContext:{tag:"crossbow"}}}});
+//# sourceMappingURL=path---tags-crossbow-978263b90b9d5f61924e.js.map

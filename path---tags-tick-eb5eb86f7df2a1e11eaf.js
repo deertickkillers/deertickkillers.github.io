@@ -1,0 +1,2 @@
+webpackJsonp([0xb88c68c8dfd6],{480:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Deer Tick Killers"}},allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/blog/we-kill-ticks-with-birds/"},frontmatter:{title:"We Kill Ticks with Birds Who Like Eating Ticks"}}},{node:{fields:{slug:"/blog/we-kill-deer-with-trained-hunters-with-crossbows/"},frontmatter:{title:"We Kill Deer When Appropriate"}}}]}},pathContext:{tag:"tick"}}}});
+//# sourceMappingURL=path---tags-tick-eb5eb86f7df2a1e11eaf.js.map
